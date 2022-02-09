@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I am Prashant Yadav
+A Graduate in Economics & a Machine Learning practitioner. 
+
+## Find me
+[LinkedIn](https://www.linkedin.com/in/prashantyadav05/) | [Twitter](https://twitter.com/retweeper) | [kaggle](https://www.kaggle.com/prashantyadav05)
 
 <!--
 **PrashantYadav05/PrashantYadav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
