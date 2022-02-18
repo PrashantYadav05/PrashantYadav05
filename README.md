@@ -3,7 +3,7 @@ An Undergraduate in Physical Sciences & Economics + Graduate in Economics also s
 
 #### Find me on:
 [LinkedIn](https://www.linkedin.com/in/prashantyadav05/) | [Twitter](https://twitter.com/retweeper) | [kaggle](https://www.kaggle.com/prashantyadav05)
-
+<img src="{https://www.linkedin.com/in/prashantyadav05/)}" />
 <!--
 **PrashantYadav05/PrashantYadav05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
