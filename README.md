@@ -1,6 +1,10 @@
-# Hi there, I am Prashant Yadav,
-An Undergraduate in Physical Sciences & Economics + Graduate in Economics also skilled in Python but mostly, a Machine Learning practitioner. 
+#         <h2 align="center"> Prashant Yadav </h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/prashantyadav05/">Linkedin</a> |
+   <a href="https://www.kaggle.com/prashantyadav05">Kaggle</a> |
+  <a href="https://twitter.com/retweeper">Twitter</a>
+</p>    
 
-#### Find me on:
-[LinkedIn](https://www.linkedin.com/in/prashantyadav05/) | [Twitter](https://twitter.com/retweeper) | [kaggle](https://www.kaggle.com/prashantyadav05)
+A Graduate in Economics, skilled in Python but mostly a Machine Learning practitioner. 
+
 
